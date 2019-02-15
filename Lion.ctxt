@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Lion
+comment1.params=
+comment1.target=Lion()
+comment2.params=r\ m\ w\ c\ h\ n
+comment2.target=Lion(boolean,\ boolean,\ boolean,\ java.lang.String,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ Roar()
+comment4.params=
+comment4.target=java.lang.String\ Hunt()
+comment5.params=
+comment5.target=void\ Run()
+comment6.params=
+comment6.target=void\ Sleep()
+comment7.params=
+comment7.target=java.lang.String\ nameTest()
+numComments=8
